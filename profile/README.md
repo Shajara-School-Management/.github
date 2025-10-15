@@ -74,7 +74,7 @@ For major features or integration ideas, kindly open a **discussion** or **issue
 
 - 🌐 **Website:** [Coming Soon](#)
 - 💼 **Organization:** [Shajara School Management on GitHub](https://github.com/Shajara-School-Management)
-- 🧑‍💻 **Lead Developer:** [Ken Kioko](https://github.com/kenkioko)
+- 🧑‍💻 **Lead Developer:** [Kioko Kennedy](https://github.com/kenkioko)
 - ✉️ **Email:** contact@shajara.app *(placeholder — update when live)*
 
 ---
