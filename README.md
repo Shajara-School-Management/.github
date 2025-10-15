@@ -12,3 +12,7 @@ Displays an overview of the Shajara ecosystem, mission, and public-facing projec
 - Contact links  
 - Contribution guidelines  
 - MIT License  
+
+---
+
+> _“Shajara — Empowering education through connected technology.”_
